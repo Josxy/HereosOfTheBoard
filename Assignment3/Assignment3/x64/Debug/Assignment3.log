@@ -1,0 +1,6 @@
+﻿  Assignment3.cpp
+  Board.cpp
+  Pieces.cpp
+  Generating Code...
+C:\Users\Yusuf\Desktop\Garage\Metu Documents\cng 242\c++\heroesoftheboard\Assignment3\Assignment3\Board.cpp(572): warning C4715: 'Board::piecePlacer': not all control paths return a value
+  Assignment3.vcxproj -> C:\Users\Yusuf\Desktop\Garage\Metu Documents\cng 242\c++\heroesoftheboard\Assignment3\x64\Debug\Assignment3.exe
